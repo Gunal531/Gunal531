@@ -1,9 +1,79 @@
-- 👋 Hi, I’m @Gunal531
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning UG degree
-- 📫 How to reach me @guweiyi_vm
+<h1 align="center">Hi 👋, I'm Gunal</h1>
+<h3 align="center">AI & Data Science Enthusiast | Aspiring Data Scientist</h3>
+<p align="center">📍 Coimbatore, India</p>
 
-<!---
-Gunal531/Gunal531 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## About Me
+
+I am a **Data Analyst** with a strong ambition to become a **Data Scientist**, driven by curiosity and analytical thinking.  
+I am an **observant, research-oriented learner** who enjoys understanding patterns and extracting insights from data.  
+With **consistent discipline and focus**, I aim to build data-driven solutions that solve real-world problems.
+
+---
+
+## 🛠 Tech Stack
+
+### Programming & Web
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+</p>
+
+### Data Analysis & Visualization
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40"/>
+</p>
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/>
+</p>
+
+### Machine Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+</p>
+
+### Backend & Deployment
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/>
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+## Socials
+
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/gunal-p-74bb90272  
+- 🐦 **X (Twitter)**: https://x.com/GunalKiyotaka  
+- 📧 **Email**: gunalkumargunalkumar@gmail.com  
+- ▶️ **YouTube**: https://www.youtube.com/@Pgunal-dk7dn  
+- ✍️ **Medium**: https://medium.com/@gunalkumargunalkumar  
+
+---
+
+## Quote
+
+> *“Data is not just numbers — it’s evidence waiting for the right question.”*
+
+---
+
+**Observant. Research-driven. Consistently disciplined.**
