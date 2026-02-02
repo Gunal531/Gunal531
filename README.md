@@ -62,12 +62,23 @@ With **consistent discipline and focus**, I aim to build data-driven solutions t
 
 ## Socials
 
-- 🔗 **LinkedIn**: https://www.linkedin.com/in/gunal-p-74bb90272  
-- 🐦 **X (Twitter)**: https://x.com/GunalKiyotaka  
-- 📧 **Email**: gunalkumargunalkumar@gmail.com  
-- ▶️ **YouTube**: https://www.youtube.com/@Pgunal-dk7dn  
-- ✍️ **Medium**: https://medium.com/@gunalkumargunalkumar  
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/gunal-p-74bb90272" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://x.com/GunalKiyotaka" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="40"/>
+  </a>
+  <a href="mailto:gunalkumargunalkumar@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
+  </a>
+  <a href="https://www.youtube.com/@Pgunal-dk7dn" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40"/>
+  </a>
+  <a href="https://medium.com/@gunalkumargunalkumar" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/000000" width="40"/>
+  </a>
+</p>
 ---
 
 ## Quote
